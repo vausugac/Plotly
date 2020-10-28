@@ -1,6 +1,5 @@
-# 16-10-2018
-# Week 3 
-#Peer-graded assigment: R Markdown Presentation & Plotly
+
+# R Markdown Presentation & Plotly
 
 
 #Read car and truck values from tab-delimited autos.dat
